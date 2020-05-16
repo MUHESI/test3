@@ -1,0 +1,98 @@
+
+/* CONCERNANT CSS_FORUM  */
+
+/* ca concerne le commentaire ,repondre ,aimer  */
+.forum_partie_basse
+{
+font-family:Times New Roman;
+background:#760001;
+font-size: 0.8em;
+border: 1px solid #760001;
+font-weight: bold;	
+color:white;
+padding: 2px;
+}
+.forum_partie_basse:hover
+{
+background:#760001;
+border-radius: 5px 5px 5px 5px;	
+color:#760001;
+background:white;
+font-weight:bold;
+font-size: 0.8em;
+text-decoration:none;
+}
+.position_formulaire_commentaire
+{
+	position:fixed;
+	top:15%;
+	text-align:center;
+}
+.position_formulaire_commentaire h2,.formulaire_commentaire_ici h2
+{
+ font-size: 1.5em;
+ text-shadow: 1px 2px 2px #760001;
+ color:#760001;
+}
+
+/* CONCERNANT CSS_INSCRIPTION  */
+.center_block
+{
+	text-align:center;
+	border-radius:5px;
+}
+.center_block p
+{
+font-size: 1em;
+color:black;	
+}
+.center_block h1
+{
+	font-size: 2em;
+	font-weight: bold;
+	color:white;
+	background:#760001;
+	border: 1px solid #760001;
+	padding:2px;	
+}
+.center_block h2
+{
+ font-size: 1.5em;
+ text-shadow: 1px 2px 2px #760001;
+ color:#760001;
+}
+.center_block label
+{
+text-align:left;
+font-weight: bold;		
+}
+.monCouleur_boutton,.back /* CONCERNANT CSS_INSCRIPTION ET MENU PRINCPAL  */
+{
+font-family:Times New Roman;
+background:#760001;
+border: 1px solid #760001;
+font-weight: bold;	
+}
+.monCouleur_boutton:hover
+{
+background:#760001;
+border: 1px solid white;
+border-radius: 0px 0px 0px 0px;	
+color:#760001;
+background:white;
+font-weight: bold;
+}
+
+/* =======================
+===========================  */
+
+.debut_tableau
+{
+font-family:Times New Roman;
+background:#760001;
+font-size: 0.8em;
+border: 1px solid #760001;
+font-weight: bold;	
+color:white;
+padding: 2px;
+}
